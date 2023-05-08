@@ -55,11 +55,11 @@ function DetailsPage() {
                         </Col>
 
                         <Col sm={12} >
-                            <div className='block-info-details'><span className='head'>Border Countries: </span><span>{country.borders!=undefined
+                            <div className='block-info-details'><span className='head'>Border Countries: </span><div className='borders-container'>{country.borders!=undefined
                              ? country.borders.map((x,key)=>{
                                return <span className='border-country'key={x}> {x}</span>
                              })
-                             :null}</span></div>
+                             :null}</div></div>
                            
                         </Col>
                     </Row>
