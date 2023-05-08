@@ -194,3 +194,7 @@ span.border-country {
     justify-content: center;
   }
 }
+.borders-container {
+    display: flex;
+    flex-wrap: wrap;
+}
