@@ -198,3 +198,8 @@ span.border-country {
     display: flex;
     flex-wrap: wrap;
 }
+
+span.border-country {
+    position: relative;
+    margin: 1rem;
+}
