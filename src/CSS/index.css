@@ -231,6 +231,9 @@ footer{
 a{
     color: white;
 }
+.text {
+    display: none;
+}
 .text.show::after {
     content: "";
     position: absolute;
