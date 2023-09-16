@@ -213,3 +213,18 @@ footer{
     right: 33px;
     cursor: pointer;
 }
+.text.show{
+    position: absolute;
+    top: -55px;
+    left: -35rem;
+    width: 35rem;
+    background: hsl(217, 19%, 35%);
+    height: 3rem;
+    display: flex;
+    align-items: center;
+    padding: 2rem;
+    border-radius: 0.2rem;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
