@@ -229,8 +229,8 @@ footer{
     letter-spacing: 1px;
     text-align: center;
 }
-footer a{
-    color: white;
+footer .text.show a {
+    color: #fff !important;
 }
 .text {
     display: none;
