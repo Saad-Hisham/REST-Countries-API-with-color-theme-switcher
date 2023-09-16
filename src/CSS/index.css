@@ -247,3 +247,13 @@ footer .text.show a {
     right: -1%;
     transform: rotate(326deg);
 }
+@media (max-width:679px) {
+    .text.show {
+        top: -72px;
+        left: -18rem;
+        width: 20rem;
+        font-size: 14px;
+        text-align: center;
+    }
+    
+}
