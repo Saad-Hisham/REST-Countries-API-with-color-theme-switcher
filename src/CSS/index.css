@@ -200,3 +200,16 @@ span.border-country {
     position: relative;
     margin: 1rem;
 }
+footer img {
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    border: 3px solid #23293f;
+}
+
+footer{
+    position: fixed;
+    bottom: 4px;
+    right: 33px;
+    cursor: pointer;
+}
