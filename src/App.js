@@ -13,6 +13,13 @@ function App() {
 
         </Routes>
         {document.body.classList.add(localStorage.getItem("mode"))}
+    <footer>
+      <img src="https://i.ibb.co/p1FfgPJ/289962500-365203045735667-4283766746154825318-n.jpg" id="me"/>
+      <div class="text"> <p class="attribution" >
+        Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>.
+        Coded with ❤️ by <a href="https://www.frontendmentor.io/profile/Saad-Hisham" target="_blank">Saad Hisham😼</a>.
+      </p></div>
+    </footer>
       </main>
     </BrowserRouter>
 
