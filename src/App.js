@@ -33,8 +33,8 @@ function App() {
                 Frontend Mentor
               </a>
               . Coded with ❤️ by{" "}
-              <a href="https://www.frontendmentor.io/profile/Saad-Hisham" target="_blank">
-                Saad Hisham😼
+              <a href="https://3d-portofolio-seven.vercel.app/" target="_blank">
+                Saad Hisham
               </a>
               .
             </p>
